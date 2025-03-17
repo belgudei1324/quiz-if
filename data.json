@@ -1,5 +1,10 @@
 [
   {
+    "question": "https://raw.githubusercontent.com/belgudei1324/quiz-if/refs/heads/main/CS_GO%20skin%20-%20Butterfly%20Knife%20%7C%20Gamma%20Doppler%20Emerald-2.jpg",
+    "options": ["Java", "Dart", "Swift", "Kotlin"],
+    "answer": "Dart"
+  },
+  {
     "question": "Flutter ямар програмчлалын хэл дээр бичигддэг вэ?",
     "options": ["Java", "Dart", "Swift", "Kotlin"],
     "answer": "Dart"
