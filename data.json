@@ -5,12 +5,17 @@
     "answer": "Dart"
   },
   {
-    "question": "Flutter ямар програмчлалын хэл дээр бичигддэг вэ?",
+    "question": "https://raw.githubusercontent.com/belgudei1324/quiz-if/refs/heads/main/CRKT%20Johnson%20KUK%20Tactical%20Kukri%20Fixed%20Blade%20Knife%20(10_56%2022%20Black)%202742.jpg",
+    "options": ["Java", "Dart", "Swift", "Kotlin"],
+    "answer": "Dart"
+  },
+    {
+    "question": "https://raw.githubusercontent.com/belgudei1324/quiz-if/refs/heads/main/💜.jpg",
     "options": ["Java", "Dart", "Swift", "Kotlin"],
     "answer": "Dart"
   },
   {
-    "question": "Flutter ямар програмчлалын хэл дээр бичигддэг вэ?",
+    "question": "https://raw.githubusercontent.com/belgudei1324/quiz-if/refs/heads/main/CUCHILLO%20DE%20COMBATE%20AUTODEFENSA%20KARAMBIT-2.jpg",
     "options": ["Java", "Dart", "Swift", "Kotlin"],
     "answer": "Dart"
   }
