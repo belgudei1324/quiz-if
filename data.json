@@ -2,21 +2,26 @@
   {
     "question": "https://raw.githubusercontent.com/belgudei1324/quiz-if/refs/heads/main/CS_GO%20skin%20-%20Butterfly%20Knife%20%7C%20Gamma%20Doppler%20Emerald-2.jpg",
     "options": ["Karambit", "flip knife", "Butterfly", "M9 bayonet"],
-    "answer": "Dart"
+    "answer": "Butterfly"
   },
   {
     "question": "https://raw.githubusercontent.com/belgudei1324/quiz-if/refs/heads/main/CRKT%20Johnson%20KUK%20Tactical%20Kukri%20Fixed%20Blade%20Knife%20(10_56%2022%20Black)%202742.jpg",
     "options": ["Kukri", "Bayonet", "Navaja", "Tiger tooth"],
-    "answer": "Dart"
-  },
+    "answer": "Kukri"
+  
     {
     "question": "https://raw.githubusercontent.com/belgudei1324/quiz-if/refs/heads/main/ygaan.jpg",
-    "options": ["Java", "Dart", "Swift", "Kotlin"],
-    "answer": "Dart"
+    "options": ["butcher", "Skeleton knife", "Ursus knife", "flip knife"],
+    "answer": "flip knife"
   },
   {
     "question": "https://raw.githubusercontent.com/belgudei1324/quiz-if/refs/heads/main/CUCHILLO%20DE%20COMBATE%20AUTODEFENSA%20KARAMBIT-2.jpg",
-    "options": ["Java", "Dart", "Swift", "Kotlin"],
-    "answer": "Dart"
-  }
+    "options": ["Black laminate", "Shadow daggers", "Karambit", "hunting knife"],
+    "answer": "Black laminate"
+  },
+   {
+    "question": "https://raw.githubusercontent.com/belgudei1324/quiz-if/refs/heads/main/images.jpeg",
+    "options": ["falcion knife", "Skeleton knife", "Nomad knife", "machette"],
+    "answer": "Skeleton knife"
+  },
 ]
